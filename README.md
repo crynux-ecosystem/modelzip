@@ -2,6 +2,9 @@
 
 Tired of running Llama 405B slowly and pricily? ModelZip utilizes Crynux to make model smaller and faster.
 
+![ModelZip Overview](modelzip-overview.png)
+
+
 ## Distillation
 
 Crynux provides a very cheap computing power for batch inference, which is ideal for distillation.
